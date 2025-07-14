@@ -1,1 +1,2 @@
 # FIFA-2020_Player_Clustering_and_Ranking
+This project focused on grouping and ranking FIFA 2020 players based on performance metrics using unsupervised learning. PCA was used for dimensionality reduction, followed by DBSCAN clustering. Outfield players achieved a Silhouette Score of 0.475 and goalkeepers a score of 0.246. Clustering quality was further validated using Calinski-Harabasz and Davies-Bouldin scores. Players were ranked using RMSE and MAE from cluster centroids.
